@@ -1,0 +1,86 @@
+[
+  {
+    "fullName": "John Doe",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=john",
+    "phone": "+91 9867255671",
+    "emailId": "john@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  },
+  {
+    "fullName": "Alxeander Kravets",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=alexander",
+    "phone": "+91 9867255672",
+    "emailId": "alexander@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  },
+  {
+    "fullName": "Maria K",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=maria",
+    "phone": "+91 9867255673",
+    "emailId": "maria@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  },
+  {
+    "fullName": "Scott V",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=scott",
+    "phone": "+91 9867255674",
+    "emailId": "scott@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  },
+  {
+    "fullName": "Claudia Guitrez",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=claudia",
+    "phone": "+91 9867255675",
+    "emailId": "claudia@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  },
+  {
+    "fullName": "Amanda B",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=amanda",
+    "phone": "+91 9867255676",
+    "emailId": "amanda@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  },
+  {
+    "fullName": "Johana",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=johana",
+    "phone": "+91 9867255677",
+    "emailId": "johana@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  },
+  {
+    "fullName": "Peter P",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=peter",
+    "phone": "+91 9867255679",
+    "emailId": "peter@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  },
+  {
+    "fullName": "Ben Ten",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=ben",
+    "phone": "+91 9867255678",
+    "emailId": "ben@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  },
+  {
+    "fullName": "Nisha D",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=nisha",
+    "phone": "+91 9867255681",
+    "emailId": "nisha@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  },
+  {
+    "fullName": "Venkat T",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=venkat",
+    "phone": "+91 9867255682",
+    "emailId": "venkat@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  },
+  {
+    "fullName": "Sheldon Y",
+    "profilePic": "https://avatar.iran.liara.run/public/girl?username=sheldon",
+    "phone": "+91 9867255683",
+    "emailId": "sheldon@gmail.com",
+    "address": "123, Baker Street, Pondicherry"
+  }
+]

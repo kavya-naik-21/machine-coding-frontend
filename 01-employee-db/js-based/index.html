@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    </link>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="root">
+        <div class="add_employee">
+            <button class="add_employee_btn" id="add_employee_btn"> Add Employee</button>
+        </div>
+        <div class="employee_display_container">
+            <div class="employee_list" id="employee_list">
+                <div class="employee_list_heading"> EMPLOYEE LIST</div>
+            </div>
+            <div class="employee_details" id="employee_details">
+                <img class="employee_profile_pic" id="employee_profile_pic"
+                    src="https://avatar.iran.liara.run/public/girl?username=kavya" alt="employee-profile-pic"></img>
+                <div class="employee_other_details">
+                    <span> Name:
+                        <span class="employee_name" id="employee_name"> </span>
+                    </span>
+                    <span>Phone No:
+                        <span class="employee_ph_no" id="employee_ph_no"></span>
+                    </span>
+                    <span> Email Id:
+                        <span class="employee_email" id="employee_email"> </span>
+                    </span>
+                    <span>Address:
+                        <span class="employee_address" id="employee_address"> </span>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="add_employee_modal" id="add_employee_modal">
+            <form class="add_employee_form" id="add_employee_form">
+                Add Employee
+
+                <input id="fullName" type="text" placeholder="Full Name" class="add_employee_form_input"
+                    required></input>
+                <input id="profilePic" type="text" placeholder="Profile Picture URL" class="add_employee_form_input"
+                    required></input>
+
+                <input id="phoneNo" type="text" placeholder="Phone No." class="add_employee_form_input"
+                    required></input>
+
+                <input id="emailId" type="email" placeholder="Email Id" class="add_employee_form_input"
+                    required></input>
+
+                <input id="address" type="text" placeholder="Address" class="add_employee_form_input" required></input>
+
+                <div class="add_employee_form_btns">
+                    <button class="add_employee_form_submit_btn" id="add_employee_form_submit_btn">Submit</button>
+                    <button class="add_employee_form_cancel_btn" id="add_employee_form_cancel_btn">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
