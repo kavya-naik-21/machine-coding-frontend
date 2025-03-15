@@ -13,12 +13,21 @@
     <div class="root">
         <div class="timer">
             <div class="time">
-                <input placeholder="HH:MM:SS"></input>
+                <input placeholder="00" class="time_input" type="number" maxlength="2"
+                    oninput="this.value=this.value.slice(0,this.maxLength)" id="hr-input"></input>
+                <!-- max length only works on type text so use oninput-->
+                <p>:</p>
+                <input placeholder="00" class="time_input" type="number" maxlength="2"
+                    oninput="this.value=this.value.slice(0,this.maxLength)" id="mn-input"></input>
+                <p>:</p>
+
+                <input placeholder="00" class="time_input" type="number" maxlength="2"
+                    oninput="this.value=this.value.slice(0,this.maxLength)" id="sc-input"></input>
             </div>
             <div class="control-btns">
-                <button class="start-btn">Start</button>
-                <button class="stop-btn">Stop</button>
-                <button class="reset-btn">Reset</button>
+                <button class="start-btn" id="start-btn">Start</button>
+                <button class="stop-btn" id="stop-btn">Stop</button>
+                <button class="reset-btn" id="reset-btn">Reset</button>
             </div>
         </div>
     </div>
