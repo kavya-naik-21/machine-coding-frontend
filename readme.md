@@ -1,1 +1,1 @@
-This repository has the code for frequently asked questions machine-coding round
+This repository contains solutions for frequently asked questions in the machine coding round.
