@@ -1,0 +1,29 @@
+.toast-item {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.success {
+  background-color: green;
+}
+
+.warning {
+  background-color: yellow;
+}
+
+.error {
+  background-color: red;
+}
+
+.info {
+  background-color: gray;
+}
+
+.cancel-btn {
+    height: 20px;
+}
